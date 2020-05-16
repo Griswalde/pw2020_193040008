@@ -15,8 +15,8 @@
     <p align="center">Silahkan KLIK Tombol Dibawah Ini!!</p>
   </div>
   <br>
-  <table border="6" align="center" width="65%" cellspacing="10" cellpadding="5" <tr bgcolor="#9fd1cf">
-    <td bgcolor="#3ec7b0" colspan="8" align="center"><b>INDEX </b></td>
+  <table border="6" align="center" width="65%" cellspacing="10" cellpadding="5" <tr bgcolor="salmon">
+    <td bgcolor="salmon" colspan="8" align="center"><b>INDEX </b></td>
     </tr>
     <tr>
       <td align="center"><b>NO.</b></td>

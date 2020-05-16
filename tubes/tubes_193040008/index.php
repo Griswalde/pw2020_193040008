@@ -40,7 +40,7 @@ if (isset($_GET['cari'])) {
     <![endif]-->
 </head>
 
-<body style="background-image: url(image/tt.jpg);">
+<body style="background-image: url(assets/img/buku.jpg); background-position: -100px;">
 
   <!-- awal navbar -->
   <nav class="navbar navbar-default">
