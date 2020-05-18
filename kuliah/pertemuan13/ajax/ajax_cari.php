@@ -22,7 +22,7 @@ $mahasiswa = cari($_GET['keyword']);
   foreach ($mahasiswa as $m) : ?>
     <tr>
       <td><?= $i++; ?></td>
-      <td><img src="img/hihi.jpg" width="50"></td>
+      <td><img src="img/<?= $m['gambar']; ?>" width="60px"></td>
       <td><?= $m['nama']; ?></td>
 
       <td>
